@@ -27,6 +27,8 @@ It depends on your experience with ROS, robots, and what computer system you hav
 Requirements
 ============
 
+You need a physical Turtlebot or something similar to fully do this tutorial.
+
 You must install Nav2, Turtlebot3.
 If you don't have them installed, please follow :ref:`getting_started`.
 
